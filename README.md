@@ -2,4 +2,4 @@
 - My day job is a grad student who works on the overlap of microfluidics, soft condensed matter, acoustics and electrokinetics. 
 - One day I hope to apply these tools towards the restoring our environment.
 - I also have an inexplicable fascination with the N-vector model of statistical mechanics which is a generalization of the Ising, XY and Heisenberg models. 
-- One day I plan to make a videogome of sorts that uses these N-vector lattice models. Let me know if you want to work together. Peace!  
+- One day I plan to make a videogome of sorts that uses these N-vector lattice models. Let me know if you want to discuss more!  
