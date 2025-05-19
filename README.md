@@ -1,3 +1,1 @@
 - Hi, I’m @GIridar1908
-- My day job is a grad student who works on the overlap of microfluidics, soft condensed matter, acoustics and electrokinetics. 
-- I also have an inexplicable fascination with the N-vector model of statistical mechanics which is a generalization of the Ising, XY and Heisenberg models. 
